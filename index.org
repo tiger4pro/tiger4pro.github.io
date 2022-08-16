@@ -4,9 +4,16 @@ Bienvenue sur mon site web professionnel.
 #+DATE: <2022-08-14 Sun>
 #+AUTHOR: Tiger4pro
 #+EMAIL: tiger4pro@protonmail.org
+#+LANGUAGE:  fr
+#+OPTIONS:   H:4 num:nil toc:4
+
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 * Notes et actualités politiques / Political Notes and News Items
 ** <2022-08-14 Sun> Mathieu Bélisle L’éducation doit devenir la priorité
 Mathieu Bélisle, essayiste et intellectuel, nous offre son analyse sur l’éducation sous le règne de la CAQ.
 Dans le discours inaugural de son gouvernement en 2018, le premier ministre François Legault affirmait ceci : « La première grande priorité que je voudrais aborder, c’est l’éducation. Pour la première fois depuis les années 1960, l’éducation va être la première priorité du gouvernement. Notre grande ambition, ce n’est rien de moins que de donner à chaque enfant tous les outils pour l’amener au bout de son potentiel. Je suis convaincu que tous partis confondus on peut partager cette noble ambition. L’éducation, c’est l’avenir de la nation québécoise. »
 https://www.lapresse.ca/debats/opinions/2022-08-13/l-education-doit-devenir-la-priorite.php
-
+** <2022-08-12 Fri> Recommandation Journée du livre québécois
+   Voici ma recommandation personnelle pour la Journée du Livre Québécois, le scénario du film que Pierre Falardeau n’aura jamais eu la chance de réalisé:
+   https://www.archambault.ca/Livres_Produit.aspx?id=1245712&gclid=EAIaIQobChMI4OOX0J3C-QIVAb_ICh1v7gJBEAQYASABEgJXH_D_BwE
+   
