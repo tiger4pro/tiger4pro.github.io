@@ -5,7 +5,7 @@ Bienvenue sur mon site web professionnel.
 #+AUTHOR: Tiger4pro
 #+EMAIL: tiger4pro@protonmail.org
 #+LANGUAGE:  fr
-#+OPTIONS:   H:4 num:nil toc:4
+#+OPTIONS:   H:4 num:nil toc:1
 
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 * Notes et actualités politiques / Political Notes and News Items
